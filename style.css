@@ -105,9 +105,10 @@ form input {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
+  margin-top: 5px;
 }
 
-#social img {
+#social svg {
   width: 30px;
   fill: white;
 }
